@@ -1,0 +1,119 @@
+/* Задача 1. */
+.plus p {
+    color: red;
+}
+
+
+
+/* Задача 2. */
+.plus h2 {
+    color:aqua;
+}
+
+
+
+/* Задача 3. */
+#block p {
+    color:blueviolet;
+}
+
+
+
+/* Задача 4. */
+#block h2 {
+    color: brown;
+}
+
+
+
+/* Задача 5. */
+.bbb {
+    color: pink;
+}
+
+
+
+/* Задача 6. */
+#block .bbb {
+    color: orange;
+}
+
+
+
+/* Задача 7. */
+p.bbb {
+    color:yellow;
+    font-weight: bold;
+}
+
+
+
+/* Задача 8. */
+h2.bbb {
+    color: pink;
+}
+
+
+
+/* Задача 9. */
+#block p.bbb {
+    color:bisque;
+}
+
+
+
+/* Задача 10. */
+.bbb, .xxx {
+    color:rgb(122, 0, 229);
+}
+
+
+
+/* Задача 11. */
+p.bbb, h2.xxx {
+    color:rgb(2, 123, 123)
+}
+
+
+
+/* Задача 12. */
+#block p.bbb, #block p.xxx {
+    color:rgb(22, 222, 0);
+}
+
+
+
+/* Задача 13. */
+.fff {
+    color: red;
+}
+
+
+
+/* Задача 14. */
+.fff p {
+    color:rgb(249, 134, 10);
+}
+
+
+
+/* Задача 15. */
+p.fff {
+    color:rgb(194, 0, 136);
+}
+
+
+
+/* Задача 16. */
+.fff > .bbb {
+    color:blue;
+}
+
+
+
+/* Задача 17. */
+.fff > h2.bbb {
+    color:brown;
+}
+
+
