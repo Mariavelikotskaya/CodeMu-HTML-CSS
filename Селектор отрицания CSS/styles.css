@@ -1,0 +1,15 @@
+/* Задание 1. */
+li:not(li.elem) {
+    color: red;
+}
+
+
+/* Задание 2. */
+li:not(li:first-child) {
+    color: pink;
+}
+
+/* Задание 3. */
+li:not(li:first-child, li:last-child) {
+    color: blue;
+}
