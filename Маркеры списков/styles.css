@@ -1,0 +1,37 @@
+/* Задача 1. */
+ul {
+    list-style-type: square;
+}
+
+
+/* Задача 2. */
+ul {
+    list-style-type: circle;
+}
+
+
+/* Задача 3. */
+ul {
+    list-style-type: none;
+}
+
+
+
+
+
+/* Задача 1. */
+ol {
+    list-style-type: lower-alpha;
+}
+
+
+/* Задача 2. */
+ol {
+    list-style-type: lower-greek;
+}
+
+
+/* Задача 3. */
+ol {
+    list-style-type: upper-alpha;
+}
