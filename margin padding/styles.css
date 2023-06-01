@@ -1,0 +1,53 @@
+/* Задание 1. */
+.parent {
+	border: 1px solid red;
+    height:285px;
+    width:700px;
+    margin: 20px auto 20px;
+}
+
+.child {
+	height: 80px;
+	width: 80px;
+	border: 1px solid green;
+	margin: 10px auto 10px;
+}
+
+.child2 {
+	height: 80px;
+	width: 180px;
+	border: 1px solid green;
+	margin: 10px auto 10px;
+}
+
+.child3 {
+	height: 80px;
+	width: 250px;
+	border: 1px solid green;
+	margin: 10px auto 10px;
+}
+
+
+/* Задание 2. */
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+
+/* Задание 3. */
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+
+
+/* Задание 4. */
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+    padding-right: 15px;
+
+}
