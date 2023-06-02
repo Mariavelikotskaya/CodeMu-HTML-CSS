@@ -1,0 +1,64 @@
+/* Задание 1. */
+.parent {
+	margin: 20px auto 20px;
+	width: 1000px;
+	height: 250px;
+	border: 1px solid red;
+	display: flex;
+	justify-content: center;
+}
+
+.child {
+	width: 150px;
+	height: 60px;
+	border: 1px solid rgb(40, 114, 54);
+}
+
+/* Задание 2. */
+.parent {
+	margin: 20px auto 20px;
+	width: 1000px;
+	height: 2500px;
+	border: 1px solid red;
+	display: flex;
+	justify-content: space-between;
+}
+
+.child {
+	width: 150px;
+	height: 60px;
+	border: 1px solid rgb(40, 114, 54);
+}
+
+
+/* Задание 3. */
+.parent {
+	margin: 20px auto 20px;
+	width: 1000px;
+	height: 250px;
+	border: 1px solid red;
+	display: flex;
+	justify-content: space-around;
+}
+
+.child {
+	width: 150px;
+	height: 60px;
+	border: 1px solid rgb(40, 114, 54);
+}
+
+/* Задание 4. */
+.parent {
+	margin: 20px auto 20px;
+	width: 1000px;
+	height: 250px;
+	border: 1px solid red;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.child {
+	width: 150px;	
+	height: 60px;
+	border: 1px solid rgb(40, 114, 54);
+}
