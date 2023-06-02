@@ -1,0 +1,122 @@
+/* Задание 1. */
+#elem1 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
+#elem2 {
+	position: absolute;
+	top: 130px;
+	left: 150px;
+
+	width: 100px;
+	height: 100px;
+	border: 1px solid blue;
+
+}
+#elem3 {
+	position: absolute;
+	top: 270px;
+	left: 280px;
+	
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+
+
+}
+
+
+/* Задание 2. */
+#elem1 {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
+#elem2 {
+	position: absolute;
+	top: 50px;
+	left: 200px;
+
+	width: 100px;
+	height: 100px;
+	border: 1px solid blue;
+
+}
+#elem3 {
+	position: absolute;
+	top: 50px;
+	left: 350px;
+	
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+}
+
+/* Задание 3. */
+#elem1 {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
+#elem2 {
+	position: absolute;
+	top: 110px;
+	left: 110px;
+
+	width: 100px;
+	height: 100px;
+	border: 1px solid blue;
+
+}
+#elem3 {
+	position: absolute;
+	top: 170px;
+	left: 170px;
+	
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+}
+
+
+/* Задание 4. */
+#elem1 {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	background-color: rgba(255, 0, 0, 0.452);
+}
+#elem2 {
+	position: absolute;
+	top: 110px;
+	left: 110px;
+
+	width: 100px;
+	height: 100px;
+	border: 1px solid blue;
+	background-color: rgb(67, 67, 234);
+
+}
+#elem3 {
+	position: absolute;
+	top: 170px;
+	left: 170px;
+	
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	background-color: rgb(83, 185, 83);
+}
