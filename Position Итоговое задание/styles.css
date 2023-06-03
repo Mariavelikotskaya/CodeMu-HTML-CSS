@@ -1,0 +1,294 @@
+/* Задание 1. */
+#elem1 {
+	position: relative;
+    top: 80px;
+    left: 40px;
+
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+#elem2 {
+	position: relative;
+    top: 40px;
+    left: 80px;
+
+
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+#elem3 {
+    position: relative;
+    left: 160px;
+
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
+}
+
+
+/* Задание 2. */
+#parent {
+	position: relative;
+	
+	margin: 20px auto;
+	border: 1px solid green;
+	width: 500px;
+	height: 400px;
+}
+#child {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	
+	border: 1px solid red;
+	width: 100px;
+	height: 100px;
+
+}
+
+/* Задание 3. */
+#parent {
+	position: relative;
+	
+	margin: 20px auto;
+	border: 1px solid rgb(109, 222, 156);
+	width: 500px;
+	height: 400px;
+	background-color: rgb(109, 222, 156);
+}
+#child {
+	position: absolute;
+	top: 40px;
+	left: 40px;
+	
+	border: 1px solid white;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+
+}
+#child2 {
+	position: absolute;
+	bottom: 40px;
+	right: 40px;
+	
+	border: 1px solid white;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+
+}
+
+/* Задание 3. */
+#parent {
+	position: relative;
+	
+	margin: 20px auto;
+	border: 1px solid rgb(109, 222, 156);
+	width: 500px;
+	height: 400px;
+	background-color: rgb(109, 222, 156);
+}
+#child {
+	position: absolute;
+	top: 40px;
+	left: 40px;
+	
+	border: 1px solid white;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+
+}
+#child2 {
+	position: absolute;
+	bottom: 40px;
+	right: 40px;
+	
+	border: 1px solid white;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+
+}
+/* Задание 4. */
+#parent {
+	position: relative;
+	
+	margin: 20px auto;
+	border: 1px solid black;
+	width: 200px;
+	height: 450px;
+
+}
+#child {
+	position: relative;
+	top: 50px;
+	left: 50px;
+	
+	border: 1px solid black;
+	border-radius: 50%;
+	width: 100px;  
+	height: 100px;
+	background-color: rgb(228, 24, 24);
+
+
+}
+#child2 {
+	position: absolute;
+	top: 175px;
+	right: 50px;
+	
+	border: 1px solid black;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	background-color: rgb(247, 234, 53);
+
+}
+
+#child3 {
+	position: absolute;
+	bottom: 50px;
+	right: 50px;
+	
+	border: 1px solid black;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	background-color: rgb(72, 197, 61);
+
+}
+/* Задание 5. */
+#parent {
+	position: relative;
+	
+	margin: 20px auto;
+	border: 1px solid rgb(249, 238, 80);
+	border-radius: 50%;
+	width: 500px;
+	height: 500px;
+	background-color: rgb(249, 238, 80);
+
+}
+#child {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	
+	border: 1px solid rgb(255, 255, 255);
+	border-radius: 50%;
+	width: 100px;  
+	height: 100px;
+	background-color: rgb(255, 255, 255);
+
+
+}
+#child2 {
+	position: absolute;
+	top: 100px;
+	right: 100px;
+	
+	border: 1px solid rgb(255, 255, 255);
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	background-color: rgb(255, 255, 255);
+
+}
+
+#child3 {
+	position: absolute;
+	bottom: 200px;
+	right: 220px;
+	
+	border: 1px solid rgb(255, 255, 255);
+	width: 70px;
+	height: 70px;
+	background-color: rgb(255, 255, 255);
+
+}
+#child4 {
+	position: absolute;
+	bottom: 100px;
+	right: 150px;
+
+	border: 1px solid rgb(255, 255, 255);
+	width: 200px;
+	height: 20px;
+	background-color: rgb(255, 255, 255);
+
+}
+
+/* Задание 6. */
+#elem1 {
+	position: absolute;
+	top: 100px;
+	right: 100px;
+	bottom: 100px;
+	left: 100px;
+	border: 1px solid black;
+}
+
+/* Задание 7. */
+#elem {
+	position: absolute;
+	top: 100px;
+	right: 200px;
+	bottom: 50px;
+	left: 10px;
+	border: 1px solid black;
+}
+
+/* Задание 8. */
+#parent {
+	position: relative;
+	width: 350px;
+	height: 200px;
+	border: 1px solid green;
+	margin: 50px auto;
+}
+#elem1 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border: 1px solid red;
+	left: -50px;
+}
+#elem2 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border: 1px solid red;
+	right: -50px;
+}
+
+/* Задание 9. Закрепляем тему, повтор страницы по макету! */
+#elem1 {
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	top: 0px;
+	left: 0px;
+	border:1px solid aqua;
+	text-align: center;
+	background-color: aqua;
+	line-height: 50px;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 21px;
+    color: white;
+	
+}
+#elem2 {
+	border:1px solid aqua;
+	width: 600px;
+	margin: 60px auto;
+	padding: 0px 30px;
+	font-family: 'Times New Roman';
+	text-align: justify;
+}
