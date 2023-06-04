@@ -1,0 +1,94 @@
+/* Задание 1. */
+div {
+	width: 600px;
+	border: 1px solid black;
+	text-align: justify;
+	margin: 50px auto;
+	padding: 20px 20px;
+}
+.img1{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+    margin-top: 10px;
+}
+.img2 {
+	float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Задание 2.  */
+.parent {
+	width: 600px;
+	margin: 10px auto;
+	border: 1px solid black;
+	text-align: justify;
+	padding: 20px;
+
+}
+.child {
+	float: right;
+	border: 1px solid green;
+	width: 200px;
+	height: 100px;
+	margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+/* Задание 3. */
+.parent {
+	border: 1px solid black;
+	width: 800px;
+	margin: 10px auto;
+	text-align: justify;
+	padding: 20px;
+
+}
+.child {
+	float: right;
+	width: 130px;
+	height: 70px;
+	border: 1px solid green;
+	margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+	text-align: center;
+}
+
+/* Задание 4. */
+.parent {
+	border: 1px solid black;
+	width: 100%;
+	padding: 20px 0px 20px 0px;
+}
+.child {
+	float: left;
+	border: 1px solid green;
+	width:100px;
+	height: 50px;
+	text-align: center;
+	margin-left: 10px;
+}
+.clearfix {
+	clear:both;
+}
+
+/* Задание 5. */
+.parent {
+	border: 1px solid black;
+	padding: 20px;
+}
+.child {
+	float: right;
+	border: 1px solid green;
+	width:100px;
+	height: 50px;
+	text-align: center;
+	margin-right: 10px;
+}
+.clearfix {
+	clear:both;
+}
