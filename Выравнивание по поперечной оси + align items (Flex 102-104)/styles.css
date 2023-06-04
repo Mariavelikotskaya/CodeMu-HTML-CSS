@@ -1,0 +1,243 @@
+/* Задание 1. */
+/* .parent {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-end;
+	align-items: flex-end;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 2. */
+/* .parent {
+	display: flex;
+	flex-direction:row-reverse;
+	justify-content: flex-start;
+	align-items: flex-end;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+
+
+/* Задание 3. */
+/* .parent {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-end;
+	align-items: flex-start;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+
+
+/* Задание 4. */
+/* .parent {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: flex-start;
+	align-items: flex-end;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+
+
+/* Задание 5. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-end;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 6. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+
+/* Задание 7. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items:flex-end;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 8. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items:center;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+
+/* Задание 9. */
+/* .parent {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content:center;
+	align-items:center;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 10. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items:center;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 11. */
+/* .parent {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+
+/* Задание 12. */
+/* .parent {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	align-items:center;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 13. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+} */
+
+/* Задание 14. */
+.parent {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin: 20px auto;
+	width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+	height: 40px;
+}
