@@ -1,0 +1,139 @@
+/* Задание 1. */
+/* .parent {
+	display: flex;
+	flex-direction:row;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 2. */
+/* .parent {
+	display: flex;
+	flex-direction:column;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 3. */
+/* .parent {
+	display: flex;
+	flex-direction:row-reverse;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+
+/* Задание 4. */
+/* .parent {
+	display: flex;
+	flex-direction:column-reverse;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 5. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 6. */
+/* .parent {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 7. */
+/* .parent {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: flex-start;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+/* Задание 8. */
+/* .parent {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content:flex-end;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 9. */
+.parent {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content:flex-end;
+	border: 1px solid red;
+	margin: 20px auto;
+	width: 900px;
+	height: 400px;
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+}
