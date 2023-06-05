@@ -1,0 +1,62 @@
+/* Задание 1. */
+/* #menu {
+	display: flex;
+}
+#menu a {
+	margin-right: 5px;
+	padding: 10px;
+	font: 15px Arial;
+	text-decoration: none;
+	color: #ffffff;
+	border: 1px solid rgb(222, 117, 208);
+	background-color: rgb(222, 117, 208);
+}
+#menu a:hover, #menu a.active {
+	color: rgb(0, 0, 0);
+	border: 1px solid rgb(222, 117, 208);
+	background-color: #F5F6FA;
+} */
+
+
+
+/* Задание 2. */
+/* #menu {
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+}
+#menu a {
+	padding: 15px 25px;
+	margin-top: 5px;
+	font: 15px Arial;
+	text-decoration: none;
+	color: white;
+	border: 1px solid rgb(70, 115, 70);
+	background-color: rgb(70, 115, 70);
+}
+#menu a:hover, #menu a.active {
+	color: rgb(70, 115, 70);
+	border: 1px solid rgb(70, 115, 70);
+	background-color: white;
+} */
+
+
+/* Задание 3.     */
+#menu {
+	display: flex;
+	/* width: 300px; */
+}
+#menu a {
+	padding: 15px 40px;
+	margin-top: 5px;
+	font: 15px Arial;
+	text-decoration: none;
+	color: white;
+	border: 1px solid rgb(70, 115, 70);
+	background-color: rgb(70, 115, 70);
+}
+#menu a:hover, #menu a.active {
+	color: white;
+	border: 1px solid rgb(53, 85, 53);
+	background-color: rgb(53, 85, 53);
+}
