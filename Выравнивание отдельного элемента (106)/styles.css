@@ -1,0 +1,66 @@
+/* Задание 1. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+
+}
+.child {
+	border: 1px solid green;
+	width: 100px;
+	height: 60px;
+}
+.elem{
+	align-self: flex-end;
+	width: 100px;
+	height: 60px;
+} */
+
+/* Задание 2. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: stretch;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+
+}
+.child {
+	border: 1px solid green;
+	width: 100px;
+
+}
+.elem{
+	align-self: center;
+}  */
+
+/* Задание 3. */
+.parent {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+
+}
+.child {
+	border: 1px solid green;
+	width: 100px;
+	height: 60px;
+
+}
+.elem {
+	align-self: center;
+}
+
