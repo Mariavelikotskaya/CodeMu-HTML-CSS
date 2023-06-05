@@ -1,0 +1,156 @@
+/* Задание 1. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: flex-end;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+
+}
+.child {
+	border: 1px solid green;
+	width: 120px;
+	height: 60px;
+} */
+
+/* Задание 2. */
+/* .parent {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+} */
+
+/* Задание 3. */
+/* .parent {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-end;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+} */
+
+/* Задание 4. */
+/* .parent {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	align-items: flex-end;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+} */
+
+/* Задание 5. */
+/* .parent {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	align-items: flex-start;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}  */
+
+
+/* Задание 6. */
+/* .parent {
+	display: flex;
+	flex-direction: column;
+	justify-content:space-between;
+	align-items: flex-start;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}  */
+
+/* Задание 7. */
+/* .parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-end;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}  */
+
+
+/* Задание 8. */
+/* .parent {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content:space-between;
+	align-items: flex-end;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}  */
+
+
+/* Задание 9. */
+.parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-end;
+	border: 1px solid red;
+	width: 900px;
+	height: 400px;
+	margin: 20px auto;
+}
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+} 
