@@ -1,0 +1,41 @@
+/* Задание 1. */
+#wrapper {
+	width: 700px;
+	margin: 50px auto;
+	border: 1px solid rgb(48, 41, 41);
+	text-align: justify;
+}
+#menu {
+	display: flex;
+	/* margin-bottom: 20px; */
+	background-color: rgb(48, 41, 41);
+}
+#menu a {
+	padding: 10px 25px;
+	text-decoration: none;
+	font: bold 14px Arial;
+	color: white;
+}
+#menu a:hover, #menu a.active {
+	color: rgb(48, 41, 41);
+	background-color: white;
+}
+#content h1 {
+	text-align: center;
+	margin: 20px auto;
+	color: rgb(48, 41, 41)
+}
+#content p {
+	text-align: justify;
+	margin: 15px 15px;
+	font: 17px/20px "Times New Roman";
+}
+#content a {
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+}
+#content a:hover{
+	text-decoration:underline;
+	color: green;
+}
