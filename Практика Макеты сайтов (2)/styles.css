@@ -1,0 +1,67 @@
+/* Задание 2. */
+body {
+	margin: 0;
+}
+#wrapper {
+	width: 890px;
+	margin: 0px auto 50px;
+	border: 1px solid orange;
+}
+#menu {
+	display: flex;
+	background-color: orange;
+	margin-bottom: 20px;
+	
+}
+#menu a {
+	padding: 15px 25px;
+	color: white;
+	text-decoration: none;
+	font: bold 15px Arial;
+
+}
+#menu a:hover, #menu a.active {
+	color: orange;
+	background-color: white;
+}
+#content a {
+	color:rgb(193, 125, 0);
+	text-decoration: underline;
+	font-weight: bold;
+}
+#content a:hover {
+	color: black;
+	text-decoration: none;
+}
+#content h1 {
+	text-align: center;
+	color: #b95d38;
+	font-weight: normal;
+
+}
+#content p {
+	text-align: justify;
+	text-indent: 50px;
+	font: 17px/33px "Times New Roman";
+	line-height: 30px;
+	color: orange;
+	margin: 15px 15px;
+}
+#menu2 {
+	display: flex;
+	margin: 15px auto;
+	justify-content: center;
+	margin-top: -30px;
+}
+#menu2 a {
+	margin: 0 10px;
+	text-decoration: none;
+	color: #c36843;
+	font: bold 13px Arial;
+	padding-bottom: 50px;
+}
+
+#menu2 a:hover, #menu2 a.active {
+	text-decoration: underline;
+	color: black;
+}
